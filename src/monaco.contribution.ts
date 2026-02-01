@@ -9,3 +9,5 @@ import './yql/YQLansi.monarch.json';
 import './yql/yql_ansi.contribution';
 import './yql/YQL.tmLanguage.json';
 import './yql/YQL.ansi.tmLanguage.json';
+
+export {YQLs, YQL, YQL_ANSI} from './api';
